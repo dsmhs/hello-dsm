@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-int main(int argc, char *argv[])
+int main(void)
 {
-    printf("Hello DSM!");
-    return 0;
+	puts("Hello, DSM!");
+
+	return EXIT_SUCCESS;
 }
