@@ -6,6 +6,7 @@
 * [C++](/dsm.cpp)
 * [C#](/Dsm.cs)
 * [Java](/Dsm.java)
+* [Ruby](/dsm.rb)
 * [Python](/dsm.py)
 * [아희](/dsm.aheui)
 * [혀엉...](/dsm.hyeong)
