@@ -18,4 +18,4 @@
 * [한글](/dsm.hangeul)
 * [rust](/dsm.rs)
 * [ActionScript](/dsm.as)
-* [LISP-Scheme] (/HelloDSM.rkt)
+* [LISP-Scheme](/HelloDSM.rkt)
