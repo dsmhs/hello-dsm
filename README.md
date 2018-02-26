@@ -20,6 +20,7 @@ alert('Hello DSM!');
 * [C++](/dsm.cpp)
 * [C](/dsm.c)
 * [elixir](/dsm.ex)
+* [Golang](/dsm.go)
 * [haskell](/dsm.hs)
 * [JavaScript](/DSM.js)
 * [Java](/Dsm.java)
