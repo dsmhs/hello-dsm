@@ -1,12 +1,9 @@
-using System;
+using static System.Console;
 
 namespace DSM
 {
     class Dsm
     {
-        static void Main()
-        {
-            Console.WriteLine("Hello DSM!");
-        }
+        static void Main() => WriteLine("Hello DSM!");
     }
 }
